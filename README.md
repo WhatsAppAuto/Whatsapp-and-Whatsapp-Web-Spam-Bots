@@ -1,2 +1,2 @@
-# Whatsapp-and-Whatsapp-Web-Spam-Bots
+# Whatsapp and Whatsapp Web Spam Bots
 AppleScript and JavaScript on macOS
